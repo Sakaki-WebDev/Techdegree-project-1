@@ -1,0 +1,66 @@
+header {
+  text-align: center;
+ 
+background: url('images/LondonNight.jpg.jpg') no-repeat center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+body{
+font-family: "arial";
+  background-color: #cccccc;
+  
+}
+
+.mainimage{
+border: solid 4px black;
+  border-radius:50%;
+  
+}
+
+.otherphotoscurved{
+	border:solid 4px grey;
+	border-radius:50%;
+}
+.otherphotossquare{
+	border: solid 4px grey;
+	border-radius:;
+}
+h1{
+  border-radius: 6px;
+  display: inline-block;
+  background: #ff9904;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+  
+}
+
+.sectiontitle {
+   text-transform:uppercase;
+    border-radius: 6px;
+background: #0399ff;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+  
+}
+
+  footer {
+    font-size: 1.3em;
+    max-width: 1200px;
+    margin: 40px auto;
+  }
+
+  .list-style{
+ list-style-type: none;
+ list-style-position: inside;
+   
+
+}
+
+  .alternate-list-style{
+  	list-style:none;
+  	list-style-position:inside;
+  }
